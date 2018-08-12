@@ -27,6 +27,7 @@
 .bigcol {
   float:left;
   width: 65.666%;
+  height: 23px;
 }
 
 .col-1 {
@@ -43,8 +44,3 @@
   width: 1000px;
 }
 
-.clearfix:after {
-  content: 'NYOOM';
-  display: block;
-  clear: both;
-}
