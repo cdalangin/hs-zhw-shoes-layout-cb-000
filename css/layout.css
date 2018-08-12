@@ -27,7 +27,7 @@
 .bigcol {
   float:left;
   width: 65.666%;
-  height: 23px;
+  height: 500px;
 }
 
 .col-1 {
@@ -43,4 +43,3 @@
 .fixed-size {
   width: 1000px;
 }
-
