@@ -44,8 +44,7 @@
 }
 
 .clearfix:after {
-  content: '.';
+  content: 'NYOOM';
   display: block;
   clear: both;
-  visibility: hidden;
 }
