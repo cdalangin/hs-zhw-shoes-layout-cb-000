@@ -42,3 +42,10 @@
 .fixed-size {
   width: 1000px;
 }
+
+.clearfix:after {
+  content: '.';
+  display: block;
+  clear: both;
+  visibility: hidden;
+}
